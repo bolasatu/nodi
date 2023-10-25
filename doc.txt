@@ -1,0 +1,19 @@
+to build it in codespaces
+
+web/
+    remove vue-jest
+
+    it need .firebase.env
+       use .firebase.env.example.js
+
+can't run because using latest node and nuxt2 
+  need to upgrade to nuxt3 and vue3
+  
+can't run the core, it need rust 
+   /workspaces/nodi/core/wasm/marching-cubes/pkg doesn't exist
+
+can we disable the graphic functionality
+
+css 
+  hand roll in web/assets
+
